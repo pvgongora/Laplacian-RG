@@ -1,4 +1,4 @@
-# Laplacian-RG
+# Laplacian Renormalization Group
 Here we study the coarse-graining process of heterogeneous networks. This is the code for our paper [Laplacian Renormalization Group for heterogeneous networks](https://doi.org/10.1038/s41567-022-01866-8).
 
 ## Directory structure
