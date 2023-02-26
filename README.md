@@ -3,7 +3,7 @@ Here we study the coarse-graining process of heterogeneous networks. This is the
 
 ## Directory structure
 
-- `Degree-distribution`: contains Python code for generate a coarse-grained version of the network.
+- `Degree-distribution`: Contains the Python code for generate a coarse-grained version of the network, showing the final degree distribution of the downscaled network.
 
 ## References
 [1] Villegas, P., Gili, T., Caldarelli, G., & Gabrielli, A. (2023). Laplacian renormalization group for heterogeneous networks. Nature Physics, 1-6.
