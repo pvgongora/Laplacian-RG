@@ -6,11 +6,23 @@ date-released: 2023-01-08
 authors:
   - given-names: Pablo
     family-names: Villegas
+abstract: This repository contains the source code of the paper Laplacian renormalization group for heterogeneous networks by Pablo Villegas, Tommaso Gili, Guido Caldarelli and Andrea Gabrielli, from Nat. Phys.
+version: 1.0.0
+preferred-citation:
+  type: article
+authors:
+  - given-names: Pablo
+    family-names: Villegas
   - given-names: Tommaso
     family-names: Gili
   - given-names: Guido
     family-names: Caldarelli
   - given-names: Andrea
     family-names: Gabrielli
-abstract: This repository contains the source code of the paper Laplacian renormalization group for heterogeneous networks by Pablo Villegas, Tommaso Gili, Guido Caldarelli and Andrea Gabrielli, from Nat. Phys.
-version: 1.0.0
+  doi: "10.1038/s41567-022-01866-8"
+  journal: "Nature Physics"
+  start: 445 # First page number
+  end: 450 # Last page number
+  title: "Laplacian renormalization group for heterogeneous networks"
+  volume: 19
+  year: 2023
