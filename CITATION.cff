@@ -8,6 +8,7 @@ authors:
     family-names: Villegas
 abstract: This repository contains the source code of the paper Laplacian renormalization group for heterogeneous networks by Pablo Villegas, Tommaso Gili, Guido Caldarelli and Andrea Gabrielli, from Nat. Phys.
 version: 1.0.0
+url: "https://github.com/pvgongora/Laplacian-RG/"
 preferred-citation:
   type: article
 authors:
