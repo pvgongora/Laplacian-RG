@@ -2,7 +2,7 @@
 Here we study the coarse-graining process of heterogeneous networks. This is the code for our paper [Laplacian Renormalization Group for heterogeneous networks](https://doi.org/10.1038/s41567-022-01866-8).
 
 ## Directory structure
-[comment]: <> - `Entropy`: Contains the Python code for calculating the network entropy and specific heat of any network. Please cite [1] and [2] if you use this code.
+[//]: - `Entropy`: Contains the Python code for calculating the network entropy and specific heat of any network. Please cite [1] and [2] if you use this code.
 
 - `Degree-distribution`: Contains the Python code for generate a coarse-grained version of the network, showing the final degree distribution of the downscaled network. Please cite [1] if you use this code.
 
